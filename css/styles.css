@@ -1,0 +1,9 @@
+/* styles.css */
+.navbar {
+    margin-bottom: 20px;
+}
+.jumbotron{
+    background-color: #f8f9fa;
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+}
